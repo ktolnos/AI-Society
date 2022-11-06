@@ -1,0 +1,13 @@
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/AiSociety.exe
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/AiSociety.pdb
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.dll
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.xml
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/obj/Debug/AiSociety.csprojResolveAssemblyReference.cache
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/obj/Debug/AiSociety.csproj.CoreCompileInputs.cache
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/obj/Debug/AiSociety.exe
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/obj/Debug/AiSociety.pdb
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.Mac.dll
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.WinForms.dll
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/MonoMac.dll
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.Gtk2.dll
+/Users/evgeek/RiderProjects/AiSociety/AiSociety/bin/Debug/Eto.Gtk3.dll

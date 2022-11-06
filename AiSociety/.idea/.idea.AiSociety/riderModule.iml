@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../.." isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/build/net45/SkiaSharp.dll.config">
+      <sourceFolder url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/build/net45/SkiaSharp.dll.config" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/osx/native/libSkiaSharp.dylib">
+      <sourceFolder url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/osx/native/libSkiaSharp.dylib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/win7-x64/native/libSkiaSharp.dll">
+      <sourceFolder url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/win7-x64/native/libSkiaSharp.dll" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/win7-x86/native/libSkiaSharp.dll">
+      <sourceFolder url="file://$MODULE_DIR$/../../../packages/SkiaSharp.1.59.3/runtimes/win7-x86/native/libSkiaSharp.dll" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
